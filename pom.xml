@@ -18,6 +18,12 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <scm>
+    <connection>scm:git:git://github.com/neo4j/licenses.git</connection>
+    <developerConnection>scm:git:git@github.com:neo4j/licenses.git</developerConnection>
+    <url>https://github.com/neo4j/licenses</url>
+  </scm>
+
   <licenses>
     <license>
       <name>GNU Affero General Public License, Version 3</name>
