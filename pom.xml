@@ -22,7 +22,6 @@
     <connection>scm:git:git://github.com/neo4j/licenses.git</connection>
     <developerConnection>scm:git:git@github.com:neo4j/licenses.git</developerConnection>
     <url>https://github.com/neo4j/licenses</url>
-    <tag>HEAD</tag>
   </scm>
 
   <licenses>
