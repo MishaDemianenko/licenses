@@ -8,7 +8,7 @@
   </parent>
   <groupId>org.neo4j.maven</groupId>
   <artifactId>licenses</artifactId>
-  <version>7</version>
+  <version>8-SNAPSHOT</version>
   <name>Licenses</name>
   <description>Open Source Licenses and Headers used by the Neo4j project.</description>
   <packaging>jar</packaging>
